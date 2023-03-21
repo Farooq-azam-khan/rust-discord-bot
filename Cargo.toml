@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 tokio = { version = "1", features = ["full"] } 
 serenity = "0.11"
+dotenv = "0.15.0"
